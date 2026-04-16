@@ -1,0 +1,72 @@
+{
+  "identifier": "yeuhh",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "yeuhh-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Default"
+      }
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/8ce9f7e9-4c32-4b40-ac0a-e2f9d1f6500a",
+      "color": "#fc440f",
+      "identifier": "107hv"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/0aa1382b-2ef3-4c5e-a74f-f1c93ef2bdac",
+      "color": "#8da266",
+      "identifier": "qmdgak"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/4f06bbe8-c094-4eb0-8410-b816033397a3",
+      "color": "#1effbc",
+      "identifier": "oqi0r"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/fb5e159d-2f45-42eb-80d7-f1f67f38ad08",
+      "color": "#4dc9ab",
+      "identifier": "5afj6k"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/79548959-7fe1-4438-94e3-c5521e538599",
+      "color": "#e63462",
+      "identifier": "aurgv"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/ca866c00-5175-4844-a86d-259da323fccc",
+      "color": "#d4f2d2",
+      "identifier": "91vn7"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/vocabulary",
+      "color": "#8fab5c",
+      "identifier": "9m538"
+    }
+  ]
+}

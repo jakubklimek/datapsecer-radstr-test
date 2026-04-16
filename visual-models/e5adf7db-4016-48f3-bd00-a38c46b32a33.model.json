@@ -1,0 +1,87 @@
+{
+  "identifier": "lrt0w",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/8ce9f7e9-4c32-4b40-ac0a-e2f9d1f6500a",
+      "color": "#fc440f",
+      "identifier": "obkssi"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/0aa1382b-2ef3-4c5e-a74f-f1c93ef2bdac",
+      "color": "#8da266",
+      "identifier": "2e5ox"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/4f06bbe8-c094-4eb0-8410-b816033397a3",
+      "color": "#1effbc",
+      "identifier": "kk2rn"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/fb5e159d-2f45-42eb-80d7-f1f67f38ad08",
+      "color": "#4dc9ab",
+      "identifier": "pkfq0k"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/79548959-7fe1-4438-94e3-c5521e538599",
+      "color": "#e63462",
+      "identifier": "mtfnu"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/ca866c00-5175-4844-a86d-259da323fccc",
+      "color": "#d4f2d2",
+      "identifier": "88ybb"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/vocabulary",
+      "color": "#8fab5c",
+      "identifier": "vzpp4"
+    },
+    {
+      "identifier": "lrt0w-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "New Visual Model"
+      }
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/vocabulary",
+      "representedEntity": "https://w3id.org/dsv#ApplicationProfile",
+      "position": {
+        "x": 350,
+        "y": 280,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "1yw9b"
+    }
+  ]
+}
