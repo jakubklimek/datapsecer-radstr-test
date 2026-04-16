@@ -1,5 +1,5 @@
 {
-  "identifier": "lrt0w",
+  "identifier": "65d9ca39-cf72-43c5-8ed7-e48f80dbb809",
   "version": 1,
   "type": "http://dataspecer.com/resources/local/visual-model",
   "entities": [
@@ -7,7 +7,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/8ce9f7e9-4c32-4b40-ac0a-e2f9d1f6500a",
+      "representedModel": "091de8bc-1445-4c05-b06b-960745863cf5",
       "color": "#fc440f",
       "identifier": "obkssi"
     },
@@ -15,7 +15,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/0aa1382b-2ef3-4c5e-a74f-f1c93ef2bdac",
+      "representedModel": "915a878d-f376-4dd6-b527-71f08282405c",
       "color": "#8da266",
       "identifier": "2e5ox"
     },
@@ -23,7 +23,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/4f06bbe8-c094-4eb0-8410-b816033397a3",
+      "representedModel": "6414d779-a271-47b6-8a92-ab8444c2a91d",
       "color": "#1effbc",
       "identifier": "kk2rn"
     },
@@ -31,7 +31,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/fb5e159d-2f45-42eb-80d7-f1f67f38ad08",
+      "representedModel": "7514908e-ade6-4403-a2a5-f66938ba41dc",
       "color": "#4dc9ab",
       "identifier": "pkfq0k"
     },
@@ -39,7 +39,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/79548959-7fe1-4438-94e3-c5521e538599",
+      "representedModel": "ea0d1273-b7f3-487a-b18b-82289624dfe1",
       "color": "#e63462",
       "identifier": "mtfnu"
     },
@@ -47,7 +47,7 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/ca866c00-5175-4844-a86d-259da323fccc",
+      "representedModel": "5ea9b6d0-dbbd-43af-8439-92648e30aa84",
       "color": "#d4f2d2",
       "identifier": "88ybb"
     },
@@ -55,12 +55,12 @@
       "type": [
         "http://dataspecer.com/resources/local/visual-model"
       ],
-      "representedModel": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/vocabulary",
+      "representedModel": "60ad3dc2-c92c-45c2-bafc-857457ff8be1",
       "color": "#8fab5c",
       "identifier": "vzpp4"
     },
     {
-      "identifier": "lrt0w-model-metadata-entity",
+      "identifier": "65d9ca39-cf72-43c5-8ed7-e48f80dbb809-model-metadata-entity",
       "type": [
         "entity-model-type"
       ],
@@ -69,7 +69,7 @@
       }
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e/vocabulary",
+      "model": "60ad3dc2-c92c-45c2-bafc-857457ff8be1",
       "representedEntity": "https://w3id.org/dsv#ApplicationProfile",
       "position": {
         "x": 350,
@@ -82,6 +82,21 @@
         "visual-node"
       ],
       "identifier": "1yw9b"
+    },
+    {
+      "model": "091de8bc-1445-4c05-b06b-960745863cf5",
+      "representedEntity": "http://purl.org/dc/terms/Agent",
+      "position": {
+        "x": 350,
+        "y": 390,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "g85ma"
     }
   ]
 }

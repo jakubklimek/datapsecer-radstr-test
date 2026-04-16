@@ -1,5 +1,5 @@
 {
-  "iri": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e",
+  "iri": "b07fd256-cdde-413b-97f3-a98dc4275ea9",
   "projectIri": "c2cbc3c7-f47e-465c-9473-c1620249757d",
   "types": [
     "http://dataspecer.com/resources/local/package"
@@ -15,8 +15,8 @@
     "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
   },
   "metadata": {
-    "creationDate": "2026-04-16T07:15:24.631Z",
-    "modificationDate": "2026-04-16T07:30:48.357Z"
+    "creationDate": "2026-04-16T07:33:05.659Z",
+    "modificationDate": "2026-04-16T07:34:55.333Z"
   },
   "_version": 1,
   "_exportVersion": 2,
