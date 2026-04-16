@@ -1,0 +1,24 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/906179ce-bf26-460c-8463-5ee87dad846e",
+  "projectIri": "c2cbc3c7-f47e-465c-9473-c1620249757d",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "JaKl"
+    },
+    "description": {
+      "en": "This specification defines terms needed to describe application profiles,"
+    },
+    "importedFromUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/",
+    "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
+  },
+  "metadata": {
+    "creationDate": "2026-04-16T06:57:43.063Z",
+    "modificationDate": "2026-04-16T07:01:34.906Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
